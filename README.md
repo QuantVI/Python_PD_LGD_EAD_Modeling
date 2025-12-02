@@ -1,4 +1,4 @@
-### This repo includea a Relase
+### This repo includes a Release
 - the release contains a 200MB and 96MB loan data csv, and
 - a 340MB loan csv **ZIP** file. The zip extarcts into a 1.2 GB loan.csv file
 
