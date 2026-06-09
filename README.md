@@ -25,3 +25,7 @@ Enjoy
      }
 ```
 sum = $2260668$
+
+
+To get the data, go here, or similar unde the version 1.0 tag to see releases.
+* https://github.com/QuantVI/Python_PD_LGD_EAD_Modeling/releases/tag/v1.0
